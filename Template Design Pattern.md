@@ -1,4 +1,4 @@
-# Real usecase of Template Design Pattern — 
+# `Template Design Pattern` at Work — 
 
 existing codebase structure:  
 
